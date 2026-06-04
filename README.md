@@ -150,6 +150,22 @@ Additional test columns (road type, weather, etc.) were analyzed; the three keys
 
 ---
 
+## GitHub repo settings (topics & About)
+
+On [github.com/Bannysukumar/Gridlock-Hackathon-2.0](https://github.com/Bannysukumar/Gridlock-Hackathon-2.0) → **About** (gear icon):
+
+| Field | Value |
+|-------|--------|
+| **Description** | Perfect-score traffic demand prediction for Flipkart Gridlock Hackathon 2.0 — spatiotemporal lookup (R² = 1.0). |
+| **Website** | https://www.hackerearth.com/challenges/competitive/gridlock-hackathon-20/ |
+| **Topics** | `machine-learning` `hackathon` `pandas` `traffic-prediction` `hackerearth` `flipkart` |
+
+**Pin** this repo on your [profile](https://github.com/Bannysukumar) → *Customize your pins*.
+
+One-command setup (after `gh auth login`): see [`GITHUB_PROFILE_SETUP.md`](GITHUB_PROFILE_SETUP.md) for CLI, API script, and **LinkedIn / X** post text.
+
+---
+
 ## Links
 
 | Resource | URL |
