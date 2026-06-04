@@ -65,6 +65,7 @@ Lightweight, reproducible, and fast — full prediction run is seconds on a lapt
 ```
 Gridlock-Hackathon-2.0/
 ├── README.md
+├── dataset/                         # Official train, test, sample_submission
 ├── submission_UPLOAD_THIS_ONE.csv   # Final HackerEarth submission (score 100)
 ├── gridlock_source_submission.zip   # Source bundle for organizers
 └── source_submission/
@@ -95,8 +96,8 @@ pip install -r source_submission/requirements.txt
 
 ```bash
 python source_submission/predict.py \
-  --train path/to/training.csv \
-  --test path/to/test.csv \
+  --train dataset/train.csv \
+  --test dataset/test.csv \
   --out submission.csv
 ```
 

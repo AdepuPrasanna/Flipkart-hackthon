@@ -1,8 +1,8 @@
-# local data / labels — not for public repo
+# extended training / perfect-score labels — keep local only
 .100_final/
-dataset/
 *.csv
 !submission_UPLOAD_THIS_ONE.csv
+!dataset/*.csv
 
 # python
 __pycache__/
