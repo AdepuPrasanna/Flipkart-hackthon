@@ -2,6 +2,7 @@
 .100_final/
 dataset/
 *.csv
+!submission_UPLOAD_THIS_ONE.csv
 
 # python
 __pycache__/
