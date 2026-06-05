@@ -1,0 +1,16 @@
+gridlock_source_submission.zip — must contain exactly these 6 files:
+
+1. approach.txt
+2. predict.py
+3. requirements.txt
+4. README.txt
+5. traffic_demand_solution.ipynb
+6. Gridlock_Presentation.pptx
+
+Rebuild: python scripts/build_source_zip.py
+
+If your zip only shows 4 text/python files, delete it and use a fresh copy from Downloads or repo root after rebuild.
+
+HackerEarth may also require separate uploads:
+  - traffic_demand_solution.ipynb
+  - Gridlock_Presentation.pptx
