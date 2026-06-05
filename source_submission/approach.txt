@@ -42,10 +42,12 @@ numpy (installed with pandas, barely used)
 
 Files in zip
 ------------
-approach.txt     - this writeup
-predict.py       - script to build submission
-requirements.txt - pip packages
-README.txt       - quick run steps
+approach.txt                  - this writeup
+predict.py                    - script to build submission
+requirements.txt              - pip packages
+README.txt                    - quick run steps
+traffic_demand_solution.ipynb - full notebook (EDA + lookup pipeline)
+Gridlock_Presentation.pptx    - slide deck for reviewers
 
 Run locally
 -----------
@@ -53,6 +55,11 @@ Run locally
   python predict.py --train training.csv --test test.csv --out submission.csv
 
 Then upload submission.csv on the problem page (41778 rows, columns Index, demand).
+
+Also upload on HackerEarth (Upload Source Code section):
+  - traffic_demand_solution.ipynb
+  - Gridlock_Presentation.pptx
+  - gridlock_source_submission.zip (this full package)
 
 Notes
 -----

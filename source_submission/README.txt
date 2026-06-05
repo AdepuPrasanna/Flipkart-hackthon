@@ -8,3 +8,7 @@ train file needs: geohash (or geohash6), day, timestamp, demand
 test file is the normal competition test.csv
 
 read approach.txt for more detail
+
+Notebook and presentation (HackerEarth source upload):
+  traffic_demand_solution.ipynb
+  Gridlock_Presentation.pptx

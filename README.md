@@ -71,6 +71,8 @@ Gridlock-Hackathon-2.0/
 └── source_submission/
     ├── approach.txt                 # Detailed write-up
     ├── predict.py                   # Reproducible script
+    ├── traffic_demand_solution.ipynb  # Jupyter walkthrough
+    ├── Gridlock_Presentation.pptx     # Slide deck
     ├── requirements.txt
     └── README.txt
 ```
@@ -105,7 +107,14 @@ python source_submission/predict.py \
 
 ### 4. Submit on HackerEarth
 
-Upload `submission.csv` (41,778 rows, columns `Index`, `demand`) on the [problem page](https://www.hackerearth.com/challenges/competitive/gridlock-hackathon-20/machine-learning/traffic-demand-prediction-12-b86d1caf/).
+On the [problem page](https://www.hackerearth.com/challenges/competitive/gridlock-hackathon-20/machine-learning/traffic-demand-prediction-12-b86d1caf/):
+
+| Upload | File |
+|--------|------|
+| **Prediction** | `submission.csv` or `submission_UPLOAD_THIS_ONE.csv` (41,778 × 2) |
+| **Source zip** | `gridlock_source_submission.zip` |
+| **Notebook** | `source_submission/traffic_demand_solution.ipynb` |
+| **Presentation** | `source_submission/Gridlock_Presentation.pptx` |
 
 ---
 
